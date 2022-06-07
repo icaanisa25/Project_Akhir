@@ -1,0 +1,172 @@
+Airline,Date_of_Journey,Source,Destination,Route,Dep_Time,Arrival_Time,Duration,Total_Stops,Additional_Info,Price
+Citilink,6/6/2022,Banyuwangi ,Jakarta,BWX→ CGK,8:10,9:50,1h 40m,non-stops,No info,1353379
+Citilink,6/6/2022,Banyuwangi ,Bandung,BWX→ CGK →DPS→BDO,8:10,5:20,6h 45m,2 stops,No info,3058108
+Citilink,6/6/2022,Banyuwangi ,Bandung,BWX→ CGK →DPS→BDO,8:10,4:25:00 AM,33h 10m,2 stops,No info,3193751
+Sriwijaya Air,6/6/2022,Banyuwangi ,Bandung,BWX→ CGK →DPS→BDO,8:10,4:25:00 PM,9h 10m,2 stops,No info,3193751
+Citilink,6/6/2022,Banyuwangi ,Semarang,BWX → CGK → SRG,8:10,15:40,19h 30m,1 stops,No info,1850880
+Batik Air,6/6/2022,Banyuwangi ,Semarang,BWX → CGK → SRG,8:10,8:05,2h 25m,1 stops,No info,1854895
+Citilink,6/6/2022,Banyuwangi ,Semarang,BWX → CGK → SRG,8:10,1:40,5h 30m,1 stops,No info,2042755
+Citilink,6/6/2022,Banyuwangi ,Semarang,BWX → CGK→ PNK→SRG,8:10,9:10,1h 1m,1 stops,No info,2305153
+Lion Air,6/6/2022,Banyuwangi ,Semarang,BWX → CGK→ PNK→SRG,8:10,11:50,27h 40m,2 stops,No info,4204862
+Citilink,6/6/2022,Banyuwangi ,Semarang,BWX → CGK → SRG,8:10,9:10,25h ,1 stops,No info,2441979
+Citilink,6/6/2022,Banyuwangi ,Yogyakarta,BWX → CGK → YIA,8:10,4:40,13h 15m,1 stops,No info,1906690
+Batik Air,6/6/2022,Banyuwangi ,Yogyakarta,BWX → CGK → YIA,7:10,8:15,2h 35m,1 stops,No info,1908122
+Citilink,6/6/2022,Banyuwangi ,Yogyakarta,BWX → CGK → YIA,8:10,12:40,2h 15m,1 stops,No info ,1933271
+Wings Air,6/6/2022,Banyuwangi ,Yogyakarta,BWX → CGK → YIA,8:10,7:15,12h 10m,1 stops,No info,2029726
+Garuda Indonesia,6/6/2022,Banyuwangi ,Yogyakarta,BWX → CGK → YIA,8:10,4:10,2h 35m,1 stops,No info,2370399
+Citilink,6/6/2022,Banyuwangi ,Yogyakarta,BWX → CGK → YIA,8:10,4:10,26h 35m,1 stops,No info,2508579
+Citilink,6/6/2022,Banyuwangi ,Yogyakarta,BWX → CGK → YIA,8:10,9:20,4h 30m,1 stops,No info,2508579
+Sriwijaya Air,6/6/2022,Banyuwangi ,Yogyakarta,BWX → SUB → JOG,8:10,5:30,22h 35m,1 stops,No info,3368784
+Citilink,6/6/2022,Banyuwangi ,Yogyakarta,BWX → CGK → BTH→SUB→JOG,8:10,1:20,23h,3 stops,No info,4854202
+Citilink,6/6/2022,Banyuwangi ,Sidoarjo,BWX → CGK →SUB,8:10,5:10,20h 35m,1 stops,No info,1995184
+Citilink,6/6/2022,Banyuwangi ,Sidoarjo,BWX → CGK →SUB,8:10,7:15,5h 10m,1 stops,No info,2010334
+Citilink,6/6/2022,Banyuwangi ,Sidoarjo,BWX → CGK →SUB,8:10,5:30,15h 20m,1 stops,No info,2036392
+Sriwijaya Air,6/6/2022,Banyuwangi ,Sidoarjo,BWX → CGK →BPN→SUB,8:10,18:35,2h 50m,3 stops,No info,3818982
+Garuda Indonesia,6/6/2022,Banyuwangi ,Sidoarjo,BWX → CGK →SUB,7:30,9:10,2h 55m,1 stops,No info,2891710
+Batik Air,6/6/2022,Banyuwangi ,Malang,BWX → CGK →MLG,8:10,10:05,13h 20m,1 stops,No info,2253542
+Batik Air,6/6/2022,Banyuwangi ,Malang,BWX → CGK →MLG,8:10,11:55,15h 10m,1 stops,No info,2332982
+Batik Air,31/5/2022,Yogyakarta ,Jawa barat ,JOG→CGK,9:36,3:36,3h 35m,1 stops,No info,2759948
+Wings Air,31/5/2022,Yogyakarta ,Jawa barat ,JOG→CGK,9:36,9:36,6h ,1 stops,No info,2398700
+Lion Air,31/5/2022,Yogyakarta ,Tangerang,JOG→CGK,9:36,3:36,3h 35m,1 stops,No info,2297000
+Batik Air,31/5/2022,Yogyakarta ,Tangerang,JOG→CGK,9:36,9:36,5h ,1 stops,No info,2398700
+Super Air Jet,31/5/2022,Yogyakarta ,Tangerang,JOG→CGK,9:36,6:00,6h 45m,1 stops,No info,2132700
+Wings Air,31/5/2022,Yogyakarta ,Surabaya,JOG→SUB,10:48,10:48,1h 5m,non-stops,No info,1475000
+Wings Air,31/5/2022,Yogyakarta ,Bandung,JOG→BDO,9:36,12:00,1h 10m,non-stops,No info,1297800
+Lion Air,31/5/2022,Surabaya ,Tangerang,SUB→CGK,9:36,2:24,1h 30m,non-stops,No info,813100
+Super Air Jet,31/5/2022,Surabaya ,Tangerang,SUB→CGK,1:12,6:00,1h 30m,non-stops,No info,813100
+Batik Air,31/5/2022,Surabaya ,Tangerang,SUB→CGK,2:24,9:36,1h 30m,non-stops,No info,869900
+Lion Air,31/5/2022,Surabaya ,Jawa Tengah,SUB→SRG,9:36,9:36,5h ,1 stops,No info,1773500
+Citilink,31/5/2022,Surabaya ,Jawa Tengah,SUB→SRG,7:12,9:36,8h 10m,1 stops,No info,2102660
+Batik Air,31/5/2022,Surabaya ,Jawa Tengah,SUB→SRG,2:24,2:24,7h ,1 stops,No info,2102800
+Garuda Indonesia,31/5/2022,Surabaya ,Jawa Tengah,SUB→SRG,10:48,2:24,6h 25m,2 stops,No info,3579200
+Wings Air,31/5/2022,Surabaya ,Bandung,SUB→BDO,3:36,1:12,1h 45m,non-stops,No info,2328500
+Lion Air,31/5/2022,Surabaya ,Bandung,SUB→BDO,2:24,1:12,11h 40m,1 stops,No info,2695900
+Wings Air,31/5/2022,Surabaya ,Yogyakarta,SUB→JOG,7:12,4:48,1h 10m,non-stops,No info,1524000
+Garuda Indonesia,31/5/2022,Surabaya ,Yogyakarta,SUB→YIA,7:48,4:48,18h 50m,1 stops,No info,2075700
+Citilink,31/5/2022,Malang ,Yogyakarta,MLG→YIA,4:48,9:36,5h 20m,1 stops,No info,1896230
+Batik Air,31/5/2022,Malang ,Yogyakarta,MLG→YIA,8:24,7:21,3h 55m,1 stops,No info,1928700
+Citilink,31/5/2022,Malang ,Tangerang,MLG→CGK,4:48,10:48,1h 25m,non-stops,No info,1225094
+Batik Air,31/5/2022,Malang ,Tangerang,MLG→CGK,8:24,12:00,1h 25m,non-stops,No info,1269300
+Batik Air,31/5/2022,Malang ,Bandung,MLG→BDO,8:24,1:12,6h 10m,2 stops,No info,4490800
+Citilink,31/5/2022,Malang ,Jawa Tengah,MLG→SRG,4:48,9:36,4h 20m,1 stops,No info,1935080
+Batik Air,31/5/2022,Malang ,Jawa Tengah,MLG→SRG,8:24,1:12,4h 30m,1 stops,No info,2217900
+Batik Air,31/5/2022,Malang ,Jawa Tengah,MLG→SOC,8:24,10:48,4h 10m,1 stops,No info,2194500
+Batik Air,31/5/2022,Malang ,Surabaya,MLG →SUB,8:24,3:36,5h 40m,1 stops,No info,2048600
+Lion Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,12:00,17:20,5h 20m,1 stops,No info,2004000
+Lion Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,13:00,17:20,4h 20m,1 stops,No info,2004000
+Sriwijaya Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,14:00,17:20,27h 20m,1 stops,No info,2026868
+Lion Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,10:00,17:20,7h 20m,1 stops,No info,2139500
+Citilink,6/6/2022,Jakarta ,Bandung,CGK→BDO,14:00,13:50,23h 50m,1 stops,No info,2214569
+Lion Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,7:00,17:20,10h 20mnt,1 stops,No info,2273800
+Lion Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,9:00,17:20,8h 20mnt,1 stops,No info,2273800
+Lion Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,12:00,13:50,25h 50m,1 stops,No info,2286986
+Citilink,6/6/2022,Jakarta ,Bandung,CGK→BDO,13:00,13:50,24h 50m,1 stops,No info,2286986
+Citilink,6/6/2022,Jakarta ,Bandung,CGK→BDO,17:00,13:50,2h 50m,1 stops,No info,2286986
+Super Air Jet,6/6/2022,Jakarta ,Bandung,CGK→BDO,14:45,13:50,23h 5m,1 stops,No info,2310418
+Super Air Jet,6/6/2022,Jakarta ,Bandung,CGK→BDO,11:45,13:50,26h 5m,1 stops,No info,2314458
+Sriwijaya Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,14:00,13:50,23h 50,1 stops,No info,2315064
+Lion Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,8:00,17:20,9h 20m,1 stops,No info,2341500
+Super Air Jet,6/6/2022,Jakarta ,Bandung,CGK→BDO,12:45,13:50,25h 5m,1 stops,No info,2382835
+Lion Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,17:05,17:20,24h 15m,1 stops,No info,2408139
+Lion Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,10:00,13:50,27h 50m,1 stops,No info,2423740
+Super Air Jet,6/6/2022,Jakarta ,Bandung,CGK→BDO,5:45,13:50,8h 5m,1 stops,No info,2519690
+Citilink,6/6/2022,Jakarta ,Bandung,CGK→BDO,4:55,17:20,36h 25m,1 stops,No info,2542671
+Lion Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,7:00,13:50,6h 50m,1 stops,No info,2559484
+Lion Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,9:00,13:50,28h 50m,1 stops,No info,2559484
+Super Air Jet,6/6/2022,Jakarta ,Bandung,CGK→BDO,6:45,13:50,31h 5m,1 stops,No info,2586956
+Lion Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,8:00,13:50,29h 50m,1 stops,No info,2627861
+Super Air Jet,6/6/2022,Jakarta ,Bandung,CGK→BDO,7:45,13:50,30h 5m,1 stops,No info,2655333
+Batik Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,4:30,13:50,33h 20m,1 stops,No info,2673311
+Batik Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,9:30,13:50,28h 20m,1 stops,No info,2673311
+Citilink,6/6/2022,Jakarta ,Bandung,CGK→BDO,8:00,17:20,33h 20m,1 stops,No info,2748954
+Batik Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,6:30,13:50,31h 20m,1 stops,No info,2754010
+Super Air Jet,6/6/2022,Jakarta ,Bandung,CGK→BDO,5:45,14:50,9h 5m,1 stops,No info,2809800
+Citilink,6/6/2022,Jakarta ,Bandung,CGK→BDO,16:00,8:15,16h 5m,1 stops,No info,2819329
+Lion Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,3:40,14:50,11h 10m,2 stops,No info,2849200
+Wings Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,5:30,14:50,9h 20m,2 stops,No info,2849200
+Wings Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,9:30,14:50,5h 20m,2 stops,No info,2849200
+Batik Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,5:00,14:50,9h 50m,2 stops,No info,2911900
+Batik Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,6:00,14:50,8h 50m,2 stops,No info,2911900
+Batik Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,7:00,14:50,7h 50m,2 stops,No info,2911900
+Batik Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,7:00,18:55,11h 55m,1 stops,No info,2911900
+Batik Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,12:00,18:55,6h 55m,1 stops,No info,2911900
+Batik Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,10:00,14:50,4h 50m,2 stops,No info,2976300
+Batik Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,13:00,18:55,5h 55m,1 stops,No info,2976300
+Batik Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,7:30,13:50,30h 20m,1 stops,No info,2993885
+Batik Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,8:30,13:50,29h 20m,1 stops,No info,2993885
+Batik Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,5:00,13:50,32h 50m,2 stops,No info,3028322
+Batik Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,9:00,14:50,5h 50m,2 stops,No info,3041800
+Batik Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,8:00,14:50,6h 50m,2 stops,No info,3106200
+Sriwijaya Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,14:00,18:55,29h 55m,2 stops,No info,3502579
+Sriwijaya Air,6/6/2022,Jakarta ,Bandung,CGK→BDO,14:00,18:55,29h 55m,2 stops,No info,3532879
+Super Air Jet,6/6/2022,Semarang,Jakarta,SRG→CGK,14:50,15:55,1h 5m,non-stops,No info,626800
+Lion Air,6/6/2022,Semarang,Jakarta,SRG→CGK,12:00,13:25,1h 5m,non-stops,No info,663400
+Batik Air,6/6/2022,Semarang,Jakarta,SRG→CGK,14:20,15:25,1h 5m,non-stops,No info,710000
+Citilink,6/6/2022,Semarang,Jakarta,SRG→CGK,10:20,11:25,1h 5m,non-stops,No info,776546
+Garuda Indonesia,6/6/2022,Semarang,Jakarta,SRG→CGK,9:55,11:10,1h 5m,non-stops,No info,1027900
+Citilink,6/6/2022,Semarang,Jakarta,SRG→CGK,10:20,11:25,1h 5m,non-stops,No info,850916
+Citilink,6/6/2022,Semarang,Jakarta,SRG→CGK,16:10,17:15,1h 5m,non-stops,No info,850916
+Citilink,6/6/2022,Semarang,Jakarta,SRG→CGK,9:55,11:10,1h 5m,non-stops,No info,850916
+Garuda Indonesia,6/6/2022,Semarang,Bandung,SRG→CGK→DPS→BDO,9:55,13:50,27h 55m,2 stops,No info,4172151
+Sriwijaya Air,6/6/2022,Semarang,Bandung,SRG→UPG→BDO,16:00,18:55,26h 5m,1 stops,No info,2341382
+Lion Air,6/6/2022,Semarang,Bandung,SRG→CGK→DPS→BDO,8:45,13:50,29h 5m,2 stops,No info,2807944
+Citilink,6/6/2022,Semarang,Bandung,SRG→CGK→DPS→BDO,10:20,17:20,31h,2 stops,No info,3034164
+Sriwijaya Air,6/6/2022,Semarang,Bandung,SRG→UPG→BDS→BDO,16:00,13:50,21h 50m,2 stops,No info,3092822
+Batik Air,6/6/2022,Semarang,Bandung,SRG→CGK→DPS→BDO,10:40,13:50,27h 10m,2 stops,No info,3135790
+Garuda Indonesia,6/6/2022,Semarang,Bandung,SRG→CGK→DPS→BDO,9:55,17:20,31h 25m,2 stops,No info,3883955
+Lion Air,6/6/2022,Semarang,Solo,SRG→CGK→SOC,8:45,15:40,6h 55m,1 stops,No info,1339.5
+Citilink,6/6/2022,Semarang,Solo,SRG→CGK→SOC,10:20,13:50,1h 5m,1 stops,No info,1490605
+Citilink,6/6/2022,Semarang,Solo,SRG→CGK→SOC,10:20,8:00,21h 40m,1 stops,No info,1511108
+Super Air Jet,6/6/2022,Semarang,Solo,SRG→CGK→SOC,14:50,9:45,18h 55m,1 stops,No info,1512001
+Lion Air,6/6/2022,Semarang,Solo,SRG→CGK→SOC,12:20,9:45,21h 25m,1 stops,No info,1548967
+Batik Air,6/6/2022,Semarang,Solo,SRG→CGK→SOC,12:20,9:45,19h 25m,1 stops,No info,1596033
+Batik Air,6/6/2022,Semarang,Solo,SRG→CGK→SOC,10:40,16:45,6h 5m,1 stops,No info,1628800
+Garuda Indonesia,6/6/2022,Semarang,Solo,SRG→CGK→SOC,6:00,15:40,5h 45m,1 stops,No info,1863450
+Lion Air,6/6/2022,Semarang,Yogyakarta,SRG→CGK→YIA,8:45,15:35,6h 50m,non-stops,No info,1271800
+Super Air Jet,6/6/2022,Semarang,Yogyakarta,SRG→CGK→YIA,14:50,12:45,21h 55m,1 stops,No info,1362318
+Citilink,6/6/2022,Semarang,Yogyakarta,SRG→CGK→YIA,10:20,13:50,6h 20m,1 stops,No info,1636450
+Garuda Indonesia,6/6/2022,Semarang,Yogyakarta,SRG→CGK→YIA,9:55,8:20,22h 55m,1 stops,No info,1924151
+Garuda Indonesia,6/6/2022,Semarang,Surabaya,SRG→CGK→SUB,9:55,7:00,21h 5m,1 stops,No info,2252433
+Garuda Indonesia,6/6/2022,Semarang,Surabaya,SRG→CGK→SUB,9:55,17:40,7h 45m,1 stops,No info,2353500
+Lion Air,6/6/2022,Semarang,Surabaya,SRG→CGK→SUB,8:45,16:00,7h 15m,1 stops,No info,1387400
+Garuda Indonesia,6/6/2022,Semarang,Malang,SRG→CGK→MLG,9:55,10:50,24h 55m,1 stops,No info,2277433
+Lion Air,6/6/2022,Semarang,Malang,SRG→CGK→MLG,12:20,10:50,33h 30m,1 stops,No info,1738881
+Batik Air,6/6/2022,Semarang,Malang,SRG→CGK→MLG,10:20,10:05,22h 45m,1 stops,No info,1800877
+Garuda Indonesia,6/6/2022,Semarang,Banyuwangi ,SRG→CGK→BWX,9:55,7:40,21h 45m,1 stops,No info,2569480
+Lion Air,6/6/2022,Semarang,Banyuwangi ,SRG→CGK→BWX,12:20,7:40,19h 20m,1 stops,No info,2201335
+Batik Air,6/6/2022,Semarang,Banyuwangi ,SRG→CGK→BWX,14:20,7:40,17h 30m,1 stops,No info,2248401
+Citilink,6/6/2022,Solo,Jakarta,SOC→CGK,10:15,11:25,1h 10m,non-stops,No info,945700
+Garuda Indonesia,6/6/2022,Solo,Jakarta,SOC→CGK,15:55,17:15,1h 20m,non-stops,No info,1161900
+Lion Air,6/6/2022,Solo,Jakarta,SOC→CGK,8:40,9:55,1h 15m,non-stops,No info,689300
+Super Air Jet,6/6/2022,Solo,Jakarta,SOC→CGK,11:05,12:20,1h 15m,non-stops,No info,689300
+Lion Air,6/6/2022,Solo,Bandung,SOC→DPS→BDO,13:30,17:20,3h 50m,1 stops,No info,1860000
+Batik Air,6/6/2022,Solo,Bandung,SOC→CGK→DPS→BDO,8:00,13:55,29h 50m,2 stops,No info,3479998
+Citilink,6/6/2022,Solo,Bandung,SOC→CGK→SUB→BDO,10:15,18:55,32h 40m,2 stops,No info,4001802
+Lion Air,28/05/2022,Yogyakarta ,Surabaya,YIA → SUB,7:20,14:00,6h 40m,1 stops,No info,1505000
+Batik Air,28/05/2022,Yogyakarta ,Surabaya,YIA → SUB,7:00,11:30,4h 30m,1 stops,No info,1749600
+Garuda Indonesia,28/05/2022,Yogyakarta ,Surabaya,YIA → SUB,10:05,17:40,7h 35m,1 stops,No info,2477100
+Citilink,28/05/2022,Yogyakarta ,Surabaya,YIA → SUB,8:05,7:05,22h 25m,1 stops,No info,1652000
+Air Asia,28/05/2022,Yogyakarta ,Surabaya,YIA → SUB,7:00,7:00,24h,1 stops,No info,1686300
+Lion Air,28/05/2022,Yogyakarta ,Jakarta,YIA → CGK,7:20,8:30,1h 10m,non-stops,No info,645500
+Batik Air,28/05/2022,Yogyakarta ,Jakarta,YIA → CGK,7:55,9:05,1h 10m,non-stops,No info,728600
+Citilink,28/05/2022,Yogyakarta ,Jakarta,YIA → CGK,17:10,6:20,1h 10m,non-stops,No info,885240
+Super Air Jet,29/05/2022,Yogyakarta ,Jakarta,YIA → CGK,12:55,14:05,1h 10m,non-stops,No info,730000
+Lion Air,29/05/2022,Yogyakarta ,Jakarta,YIA → CGK,11:10,20:20,9h 10m,1 stops,No info,1742600
+Lion Air,29/05/2022,Yogyakarta ,Jakarta,YIA → CGK,11:10,17:20,6h 10m,1 stops,No info,1945800
+Batik Air,29/05/2022,Yogyakarta ,Banyuwangi ,YIA → BWX,11:55,9:10,19h 55m,2 stops,No info,3513700
+Lion Air,29/05/2022,Yogyakarta ,Banyuwangi ,YIA → BWX,11:56,7:50,19h 55m,2 stops,No info,3513700
+Batik Air,29/05/2022,Yogyakarta ,Malang,YIA → MLG,7:00,7:51,4h 55m,1 stops,No info,1902500
+Batik Air,29/05/2022,Yogyakarta ,Malang,YIA → MLG,7:00,11:55,3h 55m,1 stops,No info,1902500
+Lion Air,29/05/2022,Yogyakarta ,Solo,YIA → SOC,7:20,10:55,8h 20m,1 stops,No info,1418200
+Batik Air,29/05/2022,Yogyakarta ,Solo,YIA → SOC,9:00,16:45,7h 45m,1 stops,No info,1589900
+Super Air Jet,29/05/2022,Yogyakarta ,Solo,YIA → SOC,12:55,16:45,3h 50m,1 stops,No info,1669900
+Lion Air,30/05/2022,Yogyakarta ,Semarang,YIA → SRG,7:20,11:40,4h 20m,1 stops,No info,1245200
+Citilink,30/05/2022,Yogyakarta ,Semarang,YIA → SRG,8:50,15:10,6h 50m,1 stops,No info,1486000
+Super Air Jet,30/05/2022,Yogyakarta ,Semarang,YIA → SRG,9:00,14:10,5h 10m,1 stops,No info,1296800
+Batik Air,30/05/2022,Yogyakarta ,Semarang,YIA → SRG,12:15,16:05,3h 50m,1 stops,No info,1598500
+Batik Air,30/05/2022,Yogyakarta ,Semarang,YIA → SRG,7:00,16:05,9h 5m,1 stops,No info,1505300
+Lion Air,30/05/2022,Yogyakarta ,Bandung,YIA → BDO,11:10,18:00,6h 50m,1 stops,No info,1876400
+Susi Air,30/05/2022,Cilacap ,Jakarta,CXP → CGK,11:10,12:30,1h,non-stops,No info,980000
+Susi Air,30/05/2022,Cilacap ,Semarang,CXP → SRG,8:15,9:15,1h,non-stops,No info,980000
+Batik Air,30/05/2022,Cilacap ,Jakarta,CXP → CGK,7:30,21:00,1h 30m,non-stops,No info,1300000
+Wings Air,30/05/2022,Karimunjawa ,Surabaya,KWB → SUB,0:00,13:00,1h,non-stops,No info,1000000
