@@ -1,11 +1,12 @@
 body {
     background-image: url(bandara.jpg);
-    /*background-color: #E9967A*/;
+    background-color: #C0C0C0;
     text-align: center;
+    background-size: cover;
 }
 
 .navbar {
-    background-color:  #000000;
+    background-color: black;
 }
 
 a {
@@ -15,3 +16,4 @@ a {
 a:hover {
     color: #f0f0f0;
   }
+  
