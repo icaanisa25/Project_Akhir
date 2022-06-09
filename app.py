@@ -1,5 +1,5 @@
 from flask import Flask, request, render_template
-from flask_cors import cross_origin
+#from flask_cors import cross_origin
 import sklearn
 import pickle
 import pandas as pd
@@ -10,7 +10,7 @@ model = pickle.load(open("flight_rf.pkl", "rb"))
 
 
 @app.route("/")
-@cross_origin()
+#@cross_origin()
 def home():
     return render_template("home.html")
 
@@ -18,7 +18,7 @@ def home():
 
 
 @app.route("/predict", methods = ["GET", "POST"])
-@cross_origin()
+#@cross_origin()
 def predict():
     if request.method == "POST":
 
@@ -464,17 +464,6 @@ def predict():
             d_Jawa_Barat = 0
             d_Jawa_Tengah = 0
         
-
-    #     ['Total_Stops', 'Journey_day', 'Journey_month', 'Dep_hour',
-    #    'Dep_min', 'Arrival_hour', 'Arrival_min', 'Duration_hours',
-    #    'Duration_mins', 'Airline_Air India', 'Airline_GoAir', 'Airline_IndiGo',
-    #    'Airline_Jet Airways', 'Airline_Jet Airways Business',
-    #    'Airline_Multiple carriers',
-    #    'Airline_Multiple carriers Premium economy', 'Airline_SpiceJet',
-    #    'Airline_Trujet', 'Airline_Vistara', 'Airline_Vistara Premium economy',
-    #    'Source_Chennai', 'Source_Delhi', 'Source_Kolkata', 'Source_Mumbai',
-    #    'Destination_Cochin', 'Destination_Delhi', 'Destination_Hyderabad',
-    #    'Destination_Kolkata', 'Destination_New Delhi']
         
         prediction=model.predict([[
             Total_stops,
